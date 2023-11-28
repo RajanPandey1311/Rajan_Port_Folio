@@ -2,7 +2,8 @@
 
 #OverView of PortFolio
 
-![1](https://github.com/RajanPandey1311/Rajan_PortFolio/assets/130823894/4427e9d3-bfca-40ec-820e-2b7222fa229a)
-![4](https://github.com/RajanPandey1311/Rajan_PortFolio/assets/130823894/2f2591b2-e023-4c80-abcf-0fccda1ab355)
-![2](https://github.com/RajanPandey1311/Rajan_PortFolio/assets/130823894/66b3bc91-e156-4168-8d41-7020f5985c6d)
-![3](https://github.com/RajanPandey1311/Rajan_PortFolio/assets/130823894/8a8b7e66-ef6e-4937-950f-85f241ee3cdb)
+
+![1](https://github.com/RajanPandey1311/Rajan_Port_Folio/assets/130823894/a817d435-3680-4c7a-baea-f3f45695048e)
+![4](https://github.com/RajanPandey1311/Rajan_Port_Folio/assets/130823894/fe23f1b3-e959-4538-8fee-363c4e621e3b)
+![2](https://github.com/RajanPandey1311/Rajan_Port_Folio/assets/130823894/aaa5aaab-ce94-4634-84c5-4045114bbd48)
+![3](https://github.com/RajanPandey1311/Rajan_Port_Folio/assets/130823894/4518f54b-1860-4a04-86b1-d03c54f9f990)
